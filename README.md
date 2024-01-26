@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Chrome extension automation tools
+- 🌱 I’m currently learning Go, data structures, algorithms, and design patterns
+- ⚡ Fun fact: career changer from Mechanical Engineering
+
 <!--
 **kevin4052/kevin4052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
